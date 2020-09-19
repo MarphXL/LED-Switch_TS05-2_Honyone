@@ -1,4 +1,4 @@
-# Vorlage
+# Honyone LED Tact Switch TS05-2
 ## Inhaltsverzeichnis
 1. [x] [Inhaltsverzeichnis](#Inhaltsverzeichnis)
 1. [ ] [Beschreibung](#Beschreibung)
@@ -13,31 +13,36 @@
 1. [x] [Credits](#Credits)
 
 ## Beschreibung
-bla
+LED-Switch (white, red(pink), green, blue)
 
 ## Hardware
+[Honyone-Website](http://www.honyone.com/en/products/show_70.html)
 ### Technische Daten
-* Modell:Multiplexer/Demultiplexer
-* Typ:74HC 4067
-* Temperaturbereich:-40 ... +85 °C
-* Versorgungsspannung:2,0 ... 10,0 VDC
-* Leistung:500 mW
-* LCSC Part #: C6525 / C424181 / [C98457](https://lcsc.com/product-detail/Analog-Switches_TI_CD74HC4067SM96_CD74HC4067SM96_C98457.html/?href=jlc-SMT)
-* EAN / GTIN: 9900001079047
+* Modell: TS5-2TG-11S
+* Function: Momentary
+* Circuit: SPST 1P1T
+* Current Rating: 50mA
+* Solder Spec: 260 °C for 3 seconds
+* Resistance: 100 mOhm
+* Operating life: 200.000 Cycles minimum
+* LCSC Part #: Honyone-products not available
+* EAN / GTIN: not available
 
 ### Datasheet
-* [TI.com datasheet](https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf)
-* [snapshot](datasheet/xyz.pdf)
+* ![Datasheet](images/Datasheet.jpg)
+* ![Productcode](images/Productcode.jpg)
 ### PCB
 ## Software
 ## 3D
 
 ## Where to buy
-~ 6 EUR for 10pcs: [AliExpress](https://www.aliexpress.com/item/32821800330.html)
+~ 21 EUR for 50pcs: [AliExpress Ruixue station Store](https://www.aliexpress.com/store/1418220)
 
 ## Abbildungen
-![Front](images/front.png)
-![Back](images/back.png)
+![Switches in 4 colors](images/IMG_7271.jpg)
+![Bottom](images/Snap_005.jpg)
+![Sideview](images/Snap_017.jpg)
+[more pictures](images/)
 
 ## Credits
 * :+1: [arduino](https://github.com/arduino)
